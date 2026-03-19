@@ -44,7 +44,7 @@ const Navbar: React.FC = () => {
           {/* LOGO */}
           <motion.div whileHover={{ scale: 1.05 }} className="relative z-[110]">
             <Link to="/" className="flex items-center gap-3 group" aria-label="Home">
-              <img src="/myportfolio/assets/Awais_raza_logo.png" alt="Awais Raza" className="w-9 h-9 rounded-lg object-contain shadow-xl border border-white/10" />
+              <img src="/assets/Awais_raza_logo.png" alt="Awais Raza" className="w-9 h-9 rounded-lg object-contain shadow-xl border border-white/10" />
               <div className="hidden sm:flex flex-col">
                 <span className="text-sm font-black tracking-tighter text-black uppercase leading-none">AWAIS <span className="text-[#800000] italic">RAZA</span></span>
                 <span className="text-[7px] font-bold text-neutral-400 tracking-[0.4em] uppercase mt-0.5">Portfolio</span>

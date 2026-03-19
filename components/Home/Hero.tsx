@@ -69,7 +69,7 @@ const Hero: React.FC = () => {
             <div className="relative w-full max-w-[320px] sm:max-w-[400px] lg:max-w-none p-3 bg-white/30 backdrop-blur-lg rounded-[2.5rem] border border-white/40 shadow-2xl float-animation">
               <div className="aspect-[4/5] rounded-[2rem] overflow-hidden border-2 border-white/60 transition-all duration-1000">
                 <img 
-                  src="/myportfolio/assets/Awais_Raza_image.jpeg"
+                  src="/assets/Awais_Raza_image.jpeg"
                   alt="Awais Raza Professional"
                   className="w-full h-full object-cover"
                   loading="lazy"
