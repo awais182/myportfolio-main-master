@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Icons } from '../../constants';
+import { Icons } from '../constants';
 
 const ExpertiseGrid: React.FC = () => {
   const expertises = [
